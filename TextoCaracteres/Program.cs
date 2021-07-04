@@ -8,11 +8,13 @@ namespace TextoCaracteres
         {
             Console.WriteLine("Executando TextoCaracteres...");
 
-            char primeiraLetra = 'a';
+            string primeiraLetra = @"a" +
+                "Conteudo:" +
+                "Concatenado";
             finalizarExecucao(primeiraLetra);
         }
 
-        private static void finalizarExecucao(char conteudo)
+        private static void finalizarExecucao(string conteudo)
         {
             Console.WriteLine(conteudo);
             Console.WriteLine("A execução acabou. Tecle Enter para finalizar... ");
