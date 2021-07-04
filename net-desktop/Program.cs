@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace net_desktop
 {
@@ -10,7 +6,11 @@ namespace net_desktop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá mundo");
+            Console.WriteLine("Olá mundo!");
+
+            Console.WriteLine("A execução acabou. Tecle Enter para finalizar... ");
+            Console.ReadLine();
+            
         }
     }
 }
