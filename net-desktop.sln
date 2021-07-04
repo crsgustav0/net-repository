@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net-desktop", "net-desktop\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{95E6E9F5-F518-47E2-9515-0DE5A1CDC257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatVariaveis", "FloatVariaveis\FloatVariaveis.csproj", "{EE3A65A0-B2DD-4C56-AECA-123C5AD4B624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversoesNumericas", "ConversoesNumericas\ConversoesNumericas.csproj", "{87E01A98-F8AB-4B41-BCE3-FAED6723BCBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{95E6E9F5-F518-47E2-9515-0DE5A1CDC257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E6E9F5-F518-47E2-9515-0DE5A1CDC257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E6E9F5-F518-47E2-9515-0DE5A1CDC257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3A65A0-B2DD-4C56-AECA-123C5AD4B624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3A65A0-B2DD-4C56-AECA-123C5AD4B624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3A65A0-B2DD-4C56-AECA-123C5AD4B624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3A65A0-B2DD-4C56-AECA-123C5AD4B624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E01A98-F8AB-4B41-BCE3-FAED6723BCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E01A98-F8AB-4B41-BCE3-FAED6723BCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E01A98-F8AB-4B41-BCE3-FAED6723BCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E01A98-F8AB-4B41-BCE3-FAED6723BCBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
